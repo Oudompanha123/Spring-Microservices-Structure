@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service-a
+
+
+ #To avoid conflicts, sett the "server.port"
+server:
+  port: 8081

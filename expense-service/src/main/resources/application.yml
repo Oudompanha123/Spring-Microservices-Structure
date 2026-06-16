@@ -1,0 +1,22 @@
+spring:
+  #    This name is used for identifying the application in the environment
+  application:
+    name: expense-service
+
+  #    POSTGRESQL database configuration.
+  #    Make sure you have created the database, before running the application
+  datasource:
+    username: postgres
+    password: Panhaoudom123
+    url: jdbc:postgresql://localhost:5433/expense_tracking
+    driver-class-name: org.postgresql.Driver
+
+#    The port on which the Spring Boot application will listen for incoming HTTP requests
+server:
+  port: 9092
+
+#    The URL of the Eureka Server where the application will register itself for service discovery.
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
