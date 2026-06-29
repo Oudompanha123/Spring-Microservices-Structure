@@ -3,7 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/api-gateway" />
-    <file type="web" url="file://$PROJECT_DIR$/EurkeServer" />
+    <file type="web" url="file://$PROJECT_DIR$/EurekaServer" />
     <file type="web" url="file://$PROJECT_DIR$/expense-service" />
     <file type="web" url="file://$PROJECT_DIR$/service-a" />
     <file type="web" url="file://$PROJECT_DIR$/sreviceb" />

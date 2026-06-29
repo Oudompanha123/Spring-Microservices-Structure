@@ -4,11 +4,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/EurkeServer" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/EurekaServer" />
         <option name="gradleJvm" value="corretto-22" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/EurkeServer" />
+            <option value="$PROJECT_DIR$/EurekaServer" />
           </set>
         </option>
       </GradleProjectSettings>
